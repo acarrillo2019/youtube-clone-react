@@ -12,26 +12,26 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Javascript Mastery', icon: <CodeIcon />, },
+  { name: 'Music', icon: <MusicNoteIcon /> },
+  { name: 'Gaming', icon: <SportsEsportsIcon />, },
+  { name: 'Live', icon: <LiveTvIcon />, },
+  { name: 'Comedy', icon: <TheaterComedyIcon />, },
+  { name: 'Sports', icon: <FitnessCenterIcon />, },
+  { name: 'Fashion', icon: <CheckroomIcon />, },
+  { name: 'Podcast', icon: <GraphicEqIcon />, },
+  { name: 'Batman', icon: <CodeIcon />, },
+  { name: 'Education', icon: <SchoolIcon />, },
+  { name: 'Comics', icon: <DeveloperModeIcon />, },
+  { name: 'Movie', icon: <OndemandVideoIcon />, }, 
+  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
+  { name: 'Gym', icon: <FitnessCenterIcon />, }, 
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
-  { name: 'Music', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon />, },
-  { name: 'Podcast', icon: <GraphicEqIcon />, },
-  { name: 'Movie', icon: <OndemandVideoIcon />, },
-  { name: 'Gaming', icon: <SportsEsportsIcon />, },
-  { name: 'Live', icon: <LiveTvIcon />, },
-  { name: 'Sport', icon: <FitnessCenterIcon />, },
-  { name: 'Fashion', icon: <CheckroomIcon />, },
-  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
-  { name: 'Comedy', icon: <TheaterComedyIcon />, },
-  { name: 'Gym', icon: <FitnessCenterIcon />, },
-  { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
