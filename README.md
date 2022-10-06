@@ -5,17 +5,23 @@
 ## Description
 
 Youtube Clone built with Javascript, React, Axios, Material UI, and Emotions via Javascript Mastery Tutorial with some Custom changes.
-
-![](/screenshots/2.png)
-![](/screenshots/3.png)
+    
+### Profile Page
 ![](/screenshots/4.png)
-
+  
+### Video Page
+![](/screenshots/5.png)
+   
+### Search Term 
+![](/screenshots/3.png)
+  
 ## Tools
-
+  
 Javascript  
 React  
 Axios  
 Material UI  
 Emotions  
   
-![](/screenshots/5.png)
+### Category Search
+![](/screenshots/2.png)
