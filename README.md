@@ -1,14 +1,14 @@
 # Youtube Clone
 
-![](/screenshots/bbss_1.PNG)
+![](/screenshots/1.PNG)
 
 ## Description
 
 Youtube Clone built with Javascript, React, Axios, Material UI, and Emotions via Javascript Mastery Tutorial with some Custom changes.
 
-![](/screenshots/bbss_2.PNG)
-![](/screenshots/bbss_3.PNG)
-![](/screenshots/bbss_4.PNG)
+![](/screenshots/2.PNG)
+![](/screenshots/3.PNG)
+![](/screenshots/4.PNG)
 
 ## Tools
 
@@ -18,4 +18,4 @@ Axios
 Material UI
 Emotions
 
-![](/screenshots/bbss_5.PNG)
+![](/screenshots/5.PNG)
