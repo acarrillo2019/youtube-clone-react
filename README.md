@@ -4,7 +4,7 @@
 
 ## Description
 
-Youtube Clone built with Javascript, React, Axios, Material UI, and Emotions.
+Youtube Clone built with Javascript, React, Axios, Material UI, and Emotions via Javascript Mastery Tutorial with some Custom changes.
 
 ![](/screenshots/bbss_2.PNG)
 ![](/screenshots/bbss_3.PNG)
